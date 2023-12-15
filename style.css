@@ -1,3 +1,27 @@
 body {
+  background-color: pink;
+  font-family: "Georgia";
+  color: Maroon;
+  font-size: 150%;
+  letter-spacing: 2px;
+}
+p{
+ font-size: 150%;
+ color: black;
+}
+img{
+  width: 50%;
+  border-style: solid;
+  border-color: black;  
+}
+li{
+  float: left;
+}   
+li a{
+  padding: 20px;
+}
+li a:hover{
+  background-color: #FF7477;
+  color:white;
 
 }
