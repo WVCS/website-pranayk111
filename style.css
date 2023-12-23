@@ -23,5 +23,9 @@ li a{
 li a:hover{
   background-color: #FF7477;
   color:white;
-
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+  position: fixed;
 }
